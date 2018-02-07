@@ -1,0 +1,5 @@
+{
+  "appTitle": "My Mail",
+  "messages_count": "You have one message",
+  "messages_count_plural": "You have {{count}} messages"
+}
